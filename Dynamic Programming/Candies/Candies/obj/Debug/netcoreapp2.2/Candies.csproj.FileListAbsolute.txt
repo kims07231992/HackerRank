@@ -1,0 +1,11 @@
+C:\Users\kims0\Desktop\Candies\Candies\bin\Debug\netcoreapp2.2\Candies.deps.json
+C:\Users\kims0\Desktop\Candies\Candies\bin\Debug\netcoreapp2.2\Candies.runtimeconfig.json
+C:\Users\kims0\Desktop\Candies\Candies\bin\Debug\netcoreapp2.2\Candies.runtimeconfig.dev.json
+C:\Users\kims0\Desktop\Candies\Candies\bin\Debug\netcoreapp2.2\Candies.dll
+C:\Users\kims0\Desktop\Candies\Candies\bin\Debug\netcoreapp2.2\Candies.pdb
+C:\Users\kims0\Desktop\Candies\Candies\obj\Debug\netcoreapp2.2\Candies.csprojAssemblyReference.cache
+C:\Users\kims0\Desktop\Candies\Candies\obj\Debug\netcoreapp2.2\Candies.csproj.CoreCompileInputs.cache
+C:\Users\kims0\Desktop\Candies\Candies\obj\Debug\netcoreapp2.2\Candies.AssemblyInfoInputs.cache
+C:\Users\kims0\Desktop\Candies\Candies\obj\Debug\netcoreapp2.2\Candies.AssemblyInfo.cs
+C:\Users\kims0\Desktop\Candies\Candies\obj\Debug\netcoreapp2.2\Candies.dll
+C:\Users\kims0\Desktop\Candies\Candies\obj\Debug\netcoreapp2.2\Candies.pdb

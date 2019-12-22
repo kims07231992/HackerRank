@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A Tale of Two Stacks", "A Tale of Two Stacks\A Tale of Two Stacks.csproj", "{BA101334-018C-42DA-A106-89FEA1FC9F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA101334-018C-42DA-A106-89FEA1FC9F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA101334-018C-42DA-A106-89FEA1FC9F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA101334-018C-42DA-A106-89FEA1FC9F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA101334-018C-42DA-A106-89FEA1FC9F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFD024DF-96FE-4BC1-A659-E04EBC7A5E74}
+	EndGlobalSection
+EndGlobal

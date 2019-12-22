@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frequency Queries", "Frequency Queries\Frequency Queries.csproj", "{045BADCE-6A6E-42E3-B268-CDFFCBC80D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{045BADCE-6A6E-42E3-B268-CDFFCBC80D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045BADCE-6A6E-42E3-B268-CDFFCBC80D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045BADCE-6A6E-42E3-B268-CDFFCBC80D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045BADCE-6A6E-42E3-B268-CDFFCBC80D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B21538E-2131-491E-9BD6-2D360FB841E7}
+	EndGlobalSection
+EndGlobal

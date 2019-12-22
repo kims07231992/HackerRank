@@ -1,0 +1,7 @@
+C:\Users\kims0\Desktop\Alternating Characters\Alternating Characters\bin\Debug\Alternating Characters.exe.config
+C:\Users\kims0\Desktop\Alternating Characters\Alternating Characters\bin\Debug\Alternating Characters.exe
+C:\Users\kims0\Desktop\Alternating Characters\Alternating Characters\bin\Debug\Alternating Characters.pdb
+C:\Users\kims0\Desktop\Alternating Characters\Alternating Characters\obj\Debug\Alternating Characters.csprojAssemblyReference.cache
+C:\Users\kims0\Desktop\Alternating Characters\Alternating Characters\obj\Debug\Alternating Characters.csproj.CoreCompileInputs.cache
+C:\Users\kims0\Desktop\Alternating Characters\Alternating Characters\obj\Debug\Alternating Characters.exe
+C:\Users\kims0\Desktop\Alternating Characters\Alternating Characters\obj\Debug\Alternating Characters.pdb

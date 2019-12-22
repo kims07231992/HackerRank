@@ -1,0 +1,11 @@
+C:\Users\kims0\Desktop\Max Array Sum\Max Array Sum\bin\Debug\netcoreapp2.2\Max Array Sum.deps.json
+C:\Users\kims0\Desktop\Max Array Sum\Max Array Sum\bin\Debug\netcoreapp2.2\Max Array Sum.runtimeconfig.json
+C:\Users\kims0\Desktop\Max Array Sum\Max Array Sum\bin\Debug\netcoreapp2.2\Max Array Sum.runtimeconfig.dev.json
+C:\Users\kims0\Desktop\Max Array Sum\Max Array Sum\bin\Debug\netcoreapp2.2\Max Array Sum.dll
+C:\Users\kims0\Desktop\Max Array Sum\Max Array Sum\bin\Debug\netcoreapp2.2\Max Array Sum.pdb
+C:\Users\kims0\Desktop\Max Array Sum\Max Array Sum\obj\Debug\netcoreapp2.2\Max Array Sum.csprojAssemblyReference.cache
+C:\Users\kims0\Desktop\Max Array Sum\Max Array Sum\obj\Debug\netcoreapp2.2\Max Array Sum.csproj.CoreCompileInputs.cache
+C:\Users\kims0\Desktop\Max Array Sum\Max Array Sum\obj\Debug\netcoreapp2.2\Max Array Sum.AssemblyInfoInputs.cache
+C:\Users\kims0\Desktop\Max Array Sum\Max Array Sum\obj\Debug\netcoreapp2.2\Max Array Sum.AssemblyInfo.cs
+C:\Users\kims0\Desktop\Max Array Sum\Max Array Sum\obj\Debug\netcoreapp2.2\Max Array Sum.dll
+C:\Users\kims0\Desktop\Max Array Sum\Max Array Sum\obj\Debug\netcoreapp2.2\Max Array Sum.pdb

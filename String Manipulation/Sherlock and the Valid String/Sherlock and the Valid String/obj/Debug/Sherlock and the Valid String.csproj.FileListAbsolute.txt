@@ -1,0 +1,7 @@
+C:\Users\kims0\Desktop\Sherlock and the Valid String\Sherlock and the Valid String\bin\Debug\Sherlock and the Valid String.exe.config
+C:\Users\kims0\Desktop\Sherlock and the Valid String\Sherlock and the Valid String\bin\Debug\Sherlock and the Valid String.exe
+C:\Users\kims0\Desktop\Sherlock and the Valid String\Sherlock and the Valid String\bin\Debug\Sherlock and the Valid String.pdb
+C:\Users\kims0\Desktop\Sherlock and the Valid String\Sherlock and the Valid String\obj\Debug\Sherlock and the Valid String.csprojAssemblyReference.cache
+C:\Users\kims0\Desktop\Sherlock and the Valid String\Sherlock and the Valid String\obj\Debug\Sherlock and the Valid String.csproj.CoreCompileInputs.cache
+C:\Users\kims0\Desktop\Sherlock and the Valid String\Sherlock and the Valid String\obj\Debug\Sherlock and the Valid String.exe
+C:\Users\kims0\Desktop\Sherlock and the Valid String\Sherlock and the Valid String\obj\Debug\Sherlock and the Valid String.pdb

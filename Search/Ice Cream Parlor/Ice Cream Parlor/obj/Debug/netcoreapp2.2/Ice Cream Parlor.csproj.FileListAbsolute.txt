@@ -1,0 +1,11 @@
+C:\Users\kims0\Desktop\Ice Cream Parlor\Ice Cream Parlor\bin\Debug\netcoreapp2.2\Ice Cream Parlor.deps.json
+C:\Users\kims0\Desktop\Ice Cream Parlor\Ice Cream Parlor\bin\Debug\netcoreapp2.2\Ice Cream Parlor.runtimeconfig.json
+C:\Users\kims0\Desktop\Ice Cream Parlor\Ice Cream Parlor\bin\Debug\netcoreapp2.2\Ice Cream Parlor.runtimeconfig.dev.json
+C:\Users\kims0\Desktop\Ice Cream Parlor\Ice Cream Parlor\bin\Debug\netcoreapp2.2\Ice Cream Parlor.dll
+C:\Users\kims0\Desktop\Ice Cream Parlor\Ice Cream Parlor\bin\Debug\netcoreapp2.2\Ice Cream Parlor.pdb
+C:\Users\kims0\Desktop\Ice Cream Parlor\Ice Cream Parlor\obj\Debug\netcoreapp2.2\Ice Cream Parlor.csprojAssemblyReference.cache
+C:\Users\kims0\Desktop\Ice Cream Parlor\Ice Cream Parlor\obj\Debug\netcoreapp2.2\Ice Cream Parlor.csproj.CoreCompileInputs.cache
+C:\Users\kims0\Desktop\Ice Cream Parlor\Ice Cream Parlor\obj\Debug\netcoreapp2.2\Ice Cream Parlor.AssemblyInfoInputs.cache
+C:\Users\kims0\Desktop\Ice Cream Parlor\Ice Cream Parlor\obj\Debug\netcoreapp2.2\Ice Cream Parlor.AssemblyInfo.cs
+C:\Users\kims0\Desktop\Ice Cream Parlor\Ice Cream Parlor\obj\Debug\netcoreapp2.2\Ice Cream Parlor.dll
+C:\Users\kims0\Desktop\Ice Cream Parlor\Ice Cream Parlor\obj\Debug\netcoreapp2.2\Ice Cream Parlor.pdb

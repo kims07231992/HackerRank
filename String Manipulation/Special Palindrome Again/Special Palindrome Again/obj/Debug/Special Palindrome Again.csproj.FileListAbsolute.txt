@@ -1,0 +1,7 @@
+C:\Users\kims0\Desktop\Jason\JasonPrivateStudy\C#\5_HackerRank\Algorithms\String Manipulation\Special Palindrome Again\Special Palindrome Again\bin\Debug\Special Palindrome Again.exe.config
+C:\Users\kims0\Desktop\Jason\JasonPrivateStudy\C#\5_HackerRank\Algorithms\String Manipulation\Special Palindrome Again\Special Palindrome Again\bin\Debug\Special Palindrome Again.exe
+C:\Users\kims0\Desktop\Jason\JasonPrivateStudy\C#\5_HackerRank\Algorithms\String Manipulation\Special Palindrome Again\Special Palindrome Again\bin\Debug\Special Palindrome Again.pdb
+C:\Users\kims0\Desktop\Jason\JasonPrivateStudy\C#\5_HackerRank\Algorithms\String Manipulation\Special Palindrome Again\Special Palindrome Again\obj\Debug\Special Palindrome Again.csprojAssemblyReference.cache
+C:\Users\kims0\Desktop\Jason\JasonPrivateStudy\C#\5_HackerRank\Algorithms\String Manipulation\Special Palindrome Again\Special Palindrome Again\obj\Debug\Special Palindrome Again.csproj.CoreCompileInputs.cache
+C:\Users\kims0\Desktop\Jason\JasonPrivateStudy\C#\5_HackerRank\Algorithms\String Manipulation\Special Palindrome Again\Special Palindrome Again\obj\Debug\Special Palindrome Again.exe
+C:\Users\kims0\Desktop\Jason\JasonPrivateStudy\C#\5_HackerRank\Algorithms\String Manipulation\Special Palindrome Again\Special Palindrome Again\obj\Debug\Special Palindrome Again.pdb
